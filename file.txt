@@ -19,17 +19,3 @@ ID: 530985050, aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 ID: 530985116, 16:51
 ID: 530985117, bericht 1
 ID: 530985117, bericht 2
-
-ID: 530985917, johanus zwemde in een auto
-ID: 530986043, bericht 4
-ID: 530986055, bericht 4
-ID: 530986066, bericht 4
-ID: 530986415, 
-ID: 530986429, 
-ID: 530986440, 
-ID: 530986718, r
-ID: 530986728, rswe
-ID: 530986743, Bdhdj
-ID: 530986804, Hhg
-ID: 530986873, Kdjxb
-ID: 530987105, Hey
