@@ -5,3 +5,4 @@ ID: 530982740, Type hier je tekst...asffs
 ID: 530983229, Type hier je tekst...hhh
 ID: 530983255, 112 vandaag
 ID: 530983422, https://guuslab.com
+ID: 530983448, <textarea id="editor" rows="10" cols="50">Type hier je tekst...</textarea>
